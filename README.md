@@ -34,6 +34,18 @@
 
      Ofuscar un scritp programado en python usa el comando
      Usage:  obfuscate -i example.py -o new-name.py --python
+     
+     CesarHackGray$ 
+     
+#### Oculta el codigo de tus scritps con ofuscate
+#### Califica esta herramienta con un estrella :3
+
+     requisitos
+     
+     Instalacion en
+     
+     termux ( otros terminales no soportado)
+     
 
 #### Installation
     
