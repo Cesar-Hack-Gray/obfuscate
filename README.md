@@ -2,7 +2,15 @@
 
 #### Este script es capaz de ofuscar y desofuscar scritps :3 pero necesitas la contraseña: ******* XD
 #### Ofuscate: ofusca los siguientes scripts programados en php, python, bash :3
+# Requisitos
 
+     Tener php
+     pkg install -y php
+     Tener python
+     pkg install -y python
+
+ 
+ 
 # un scritp pequeño pero poderoso :3
 
      
@@ -44,9 +52,16 @@
 
      requisitos
      
-     Instalacion en
+     Obfuscate in
      
-     termux ( otros terminales no soportado)
+     Termux
+     Kali Linux
+     kali nethunter(termux)
+     UserLand
+     ubuntu
+     etc...
+     
+     
      
 
 #### Installation
