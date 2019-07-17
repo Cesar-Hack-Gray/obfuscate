@@ -1,6 +1,6 @@
 # obfuscate
 
-#### Este script es capaz de ofuscar y desofuscar scritps :3 pero necesitas la contraseña: ******* XD
+#### Este script es capaz de ofuscar 3 lenguajes
 #### Ofuscate: ofusca los siguientes scripts programados en php, python, bash :3
 # Requisitos
 
